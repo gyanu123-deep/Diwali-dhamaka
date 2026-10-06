@@ -47,7 +47,7 @@ Allow: /
 Disallow: /admin
 Disallow: /register
 
-Sitemap: https://jeeto-paise.onrender.com/sitemap.xml
+https://diwali-dhamaka-tybe.onrender.com/sitemap.xml
 """, 200, {"Content-Type": "text/plain"}
 
 
