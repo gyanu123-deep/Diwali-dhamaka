@@ -59,7 +59,7 @@ def sitemap():
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://jeeto-paise.onrender.com/</loc>
+        <loc>https://diwali-dhamaka-tybe.onrender.com/</loc>
     </url>
 
 </urlset>
